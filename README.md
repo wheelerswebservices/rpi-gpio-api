@@ -16,6 +16,7 @@
 Install dependencies.
 ```
 pip install -r app/requirements.txt
+```
 
 Start the app. The light should start blinking.
 ```
