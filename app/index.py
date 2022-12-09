@@ -2,7 +2,7 @@ import RPi.GPIO as GPIO
 import threading
 import time
 
-from flask import Flask, render_template, g
+from flask import Flask, render_template
 
 
 class BlinkingThread(threading.Thread):
